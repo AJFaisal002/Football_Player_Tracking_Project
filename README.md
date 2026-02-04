@@ -80,8 +80,6 @@ Football_Player_Tracking_Project/
 └── .gitignore                      # Git ignore rules
 ```
 
----
-
 ## 📥 Inputs Used
 The system was tested using:
 1. **Football match video downloaded from YouTube**
@@ -89,10 +87,8 @@ The system was tested using:
 
 Input videos are placed inside:
 
-
-input_videos/
-![Watch demo input](demo/input_sample.mp4)
-
+## 🎥 Demo Input Video
+[![Watch demo input](demo/demo_thumbnail.png)](input_videos/input_sample.mp4)
 
 ---
 
@@ -105,9 +101,9 @@ The pipeline generates:
 
 Stored in:
 
-
-output_videos/
-![Watch demo output](demo/output_sample.avi)
+## 🎥 Demo Output Video
+📂 **output_videos/**  
+▶️ [Click to watch demo output](output_videos/output_sample.avi)
 
 
 ---
