@@ -114,6 +114,31 @@ output_videos/
 
 ---
 
+## 🌐 Interactive Web Demo (Streamlit)
+
+This project includes an optional **Streamlit-based web interface** that allows users to:
+
+- Upload a football match video
+- Run the complete player tracking and analytics pipeline
+- Visualize player tracking, team assignment, and ball possession
+- Preview and download the processed output video
+
+### 🖥️ UI Preview
+
+Below is a screenshot of the Streamlit user interface:
+
+![Streamlit UI Demo](demo/UI.png)
+
+> 📁 The screenshot is stored in the `demo/` directory of this repository.
+
+### ▶️ Run the Streamlit App Locally
+
+To launch the Streamlit web application on your local machine:
+
+```bash
+streamlit run app.py
+
+
 ## ▶️ How to Run the Project
 
 ### 1️⃣ Install Dependencies

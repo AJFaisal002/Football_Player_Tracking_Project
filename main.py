@@ -11,7 +11,7 @@ from speed_and_distance_estimator import SpeedAndDistance_Estimator
 
 def main():
     # Read Video
-    video_frames = read_video('input_videos/football.mp4')[:300]
+    video_frames = read_video('input_videos/uploaded_video.mp4')[:300]
 
     # Initialize Tracker
     tracker = Tracker('models/best.pt')
