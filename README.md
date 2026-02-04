@@ -96,7 +96,7 @@ The pipeline generates:
 - Analytical screenshots
 
 Stored in:
-output_videos/ ![Watch demo output](demo/output_sample.avi)
+![Watch demo output](demo/output_sample.avi)
 
 ## 🌐 Interactive Web Demo (Streamlit)
 
