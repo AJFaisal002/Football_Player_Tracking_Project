@@ -123,10 +123,11 @@ This project includes an optional **Streamlit-based web interface** that allows 
 
 ### 🖥️ UI Preview
 
-Below is a screenshot of the Streamlit user interface:
+Below is a screenshot and vide of the Streamlit user interface:
 
 ![Streamlit UI Demo](demo/UI.png)
 
+![Streamlit UI Demo](demo/Interactive UI.mp4)
 
 > 📁 The screenshot is stored in the `demo/` directory of this repository.
 
