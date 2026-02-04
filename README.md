@@ -127,7 +127,7 @@ Below is a screenshot and vide of the Streamlit user interface:
 
 ![Streamlit UI Demo](demo/UI.png)
 
-![Streamlit UI Demo](demo/Interactive UI.mp4)
+![Streamlit UI Demo](demo/Interactive_UI.mp4)
 
 > 📁 The screenshot is stored in the `demo/` directory of this repository.
 
