@@ -86,10 +86,7 @@ The system was tested using:
 2. Sample football gameplay video
 
 Input videos are placed inside:
-
-## 🎥 Demo Input Video
-input_videos/ ![Watch demo input](demo/input_sample.mp4)
----
+![Watch demo input](demo/input_sample.mp4)
 
 ## 📤 Outputs Generated
 The pipeline generates:
@@ -99,12 +96,7 @@ The pipeline generates:
 - Analytical screenshots
 
 Stored in:
-
-## 🎥 Demo Output Video
-![](demo/output_sample.avi)
-
-
----
+output_videos/ ![Watch demo output](demo/output_sample.avi)
 
 ## 🌐 Interactive Web Demo (Streamlit)
 
@@ -126,41 +118,35 @@ Below is a screenshot and vide of the Streamlit user interface:
 > 📁 The screenshot is stored in the `demo/` directory of this repository.
 
 ### ▶️ Run the Streamlit App Locally
-
 To launch the Streamlit web application on your local machine:
-
 ```bash
 streamlit run app.py
-
-
+```
 ## ▶️ How to Run the Project
 
 ### 1️⃣ Install Dependencies
 ```bash
 pip install ultralytics supervision opencv-python torch
-
+```
 ### 2️⃣ Place Input Video
+```
 input_videos/football.mp4
-
+```
 ### 3️⃣ Run the Pipeline
+```
 python main.py
 ```
+
 ## 🚀 Applications
-
-Sports analytics & performance evaluation
-
-Player movement analysis
-
-Match strategy research
-
-Computer vision academic projects
-
-AI-based sports technology demos
+- Sports analytics & performance evaluation
+- Player movement analysis
+- Match strategy research
+- Computer vision academic projects
+- AI-based sports technology demos
 
 ### 👤 Author
 Adnan Faisal
 📧 Email: ajfaisal1208023@gmail.com
 
 ### 📜 License
-
 This project is intended for educational and research purposes.
