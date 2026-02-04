@@ -55,6 +55,7 @@ The project is designed for **sports analytics, research, and performance analys
 ```text
 Football_Player_Tracking_Project/
 │
+├── app.py                         # Main execution pipeline
 ├── main.py                         # Main execution pipeline
 ├── yolo_inference.py               # YOLO inference module
 │
