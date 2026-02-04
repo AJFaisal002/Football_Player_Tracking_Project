@@ -88,7 +88,7 @@ The system was tested using:
 Input videos are placed inside:
 
 ## 🎥 Demo Input Video
-[![Watch demo input](demo/demo_thumbnail.png)](input_videos/input_sample.mp4)
+[![Watch demo input](input_videos/input_sample.mp4)
 
 ---
 
@@ -102,8 +102,7 @@ The pipeline generates:
 Stored in:
 
 ## 🎥 Demo Output Video
-📂 **output_videos/**  
-▶️ [Click to watch demo output](output_videos/output_sample.avi)
+![Watch demo output](demo/output_sample.avi
 
 
 ---
