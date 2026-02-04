@@ -126,10 +126,6 @@ This project includes an optional **Streamlit-based web interface** that allows 
 
 Below is a screenshot of the Streamlit user interface:
 
-## 📸 Demo Screenshot
-
-Below is an example of the application in action:
-
 ![Streamlit UI Demo](demo/UI.png)
 
 
