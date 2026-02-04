@@ -101,7 +101,7 @@ The pipeline generates:
 Stored in:
 
 ## 🎥 Demo Output Video
-![Watch demo output](demo/output_sample.avi
+![](demo/output_sample.avi)
 
 
 ---
