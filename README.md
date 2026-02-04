@@ -144,14 +144,14 @@ streamlit run app.py
 ### 1️⃣ Install Dependencies
 ```bash
 pip install ultralytics supervision opencv-python torch
-
-2️⃣ Place Input Video
+```
+### 2️⃣ Place Input Video
 input_videos/football.mp4
 
-3️⃣ Run the Pipeline
+### 3️⃣ Run the Pipeline
 python main.py
 
-🚀 Applications
+## 🚀 Applications
 
 Sports analytics & performance evaluation
 
@@ -163,10 +163,10 @@ Computer vision academic projects
 
 AI-based sports technology demos
 
-👤 Author
+### 👤 Author
 Adnan Faisal
 📧 Email: ajfaisal1208023@gmail.com
 
-📜 License
+### 📜 License
 
 This project is intended for educational and research purposes.
