@@ -51,26 +51,33 @@ The project is designed for **sports analytics, research, and performance analys
 ---
 
 ## 🏗️ Project Structure
+
+```text
 Football_Player_Tracking_Project/
 │
-├── main.py # Main execution pipeline
-├── yolo_inference.py # YOLO inference module
+├── main.py                         # Main execution pipeline
+├── yolo_inference.py               # YOLO inference module
 │
-├── camera_movement_estimator/ # Camera motion estimation
-├── trackers/ # Object tracking logic
-├── team_assigner/ # Team classification
-├── speed_and_distance_estimator/ # Speed & distance calculation
-├── player_ball_assigner/ # Ball possession logic
-├── view_transformer/ # Perspective transformation
-├── utils/ # Helper utilities
+├── camera_movement_estimator/      # Camera motion estimation
+├── trackers/                       # Object detection & tracking logic
+├── team_assigner/                  # Team classification
+├── speed_and_distance_estimator/   # Speed & distance calculation
+├── player_ball_assigner/           # Ball possession logic
+├── view_transformer/               # Perspective / view transformation
+├── utils/                          # Helper utility functions
 │
 ├── models/
-│ └── best.pt # Trained YOLO model
+│   └── best.pt                     # Trained YOLO model
 │
-├── input_videos/ # Input football videos
-├── output_videos/ # Output results
-├── development_and_analysis/ # Analysis notebooks
-└── training/ # YOLO training notebook
+├── input_videos/                   # Input football videos
+├── output_videos/                  # Output results (annotated videos)
+│
+├── development_and_analysis/       # Analysis notebooks
+├── training/                       # YOLO training notebook
+│
+├── README.md                       # Project documentation
+└── .gitignore                      # Git ignore rules
+
 
 
 ---
