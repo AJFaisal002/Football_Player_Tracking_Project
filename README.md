@@ -92,7 +92,7 @@ Input videos are placed inside:
 
 
 input_videos/
-[Watch demo input](demo/input_sample.mp4)
+![Watch demo input](demo/input_sample.mp4)
 
 
 ---
@@ -108,9 +108,7 @@ Stored in:
 
 
 output_videos/
-
-
-[Watch demo output](demo/output_sample.avi)
+![Watch demo output](demo/output_sample.avi)
 
 
 ---
