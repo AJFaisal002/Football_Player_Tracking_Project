@@ -2,14 +2,14 @@
 
 ## 📌 Project Overview
 This project presents an **end-to-end football player tracking and analytics pipeline** built using **deep learning and computer vision techniques**.  
-The system detects and tracks players, goalkeepers, referees, and the ball from football match videos and performs **movement analysis, speed estimation, distance calculation, team assignment, and camera motion compensation**.
+The system detects and tracks players, goalkeepers, referees and the ball from football match videos and performs **movement analysis, speed estimation, distance calculation, team assignment and camera motion compensation**.
 
-The project is designed for **sports analytics, research, and performance analysis**, and demonstrates how modern object detection models like **YOLO** can be integrated into a complete analytical pipeline.
+The project is designed for **sports analytics, research and performance analysis** and demonstrates how modern object detection models like **YOLO** can be integrated into a complete analytical pipeline.
 
 ---
 
 ## 🎯 Objectives
-- Detect football players, ball, referees, and goalkeepers from match videos
+- Detect football players, ball, referees and goalkeepers from match videos
 - Track each player consistently across frames
 - Assign players to teams using color-based analysis
 - Estimate **player speed and total distance covered**
@@ -104,7 +104,7 @@ This project includes an optional **Streamlit-based web interface** that allows 
 
 - Upload a football match video
 - Run the complete player tracking and analytics pipeline
-- Visualize player tracking, team assignment, and ball possession
+- Visualize player tracking, team assignment and ball possession
 - Preview and download the processed output video
 
 ### 🖥️ UI Preview
