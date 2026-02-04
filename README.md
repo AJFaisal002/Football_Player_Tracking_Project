@@ -144,13 +144,13 @@ streamlit run app.py
 ### 1️⃣ Install Dependencies
 ```bash
 pip install ultralytics supervision opencv-python torch
-```
+
 ### 2️⃣ Place Input Video
 input_videos/football.mp4
 
 ### 3️⃣ Run the Pipeline
 python main.py
-
+```
 ## 🚀 Applications
 
 Sports analytics & performance evaluation
