@@ -88,8 +88,7 @@ The system was tested using:
 Input videos are placed inside:
 
 ## 🎥 Demo Input Video
-[![Watch demo input](input_videos/input_sample.mp4)
-
+input_videos/ ![Watch demo input](demo/input_sample.mp4)
 ---
 
 ## 📤 Outputs Generated
