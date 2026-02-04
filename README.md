@@ -85,7 +85,7 @@ The system was tested using:
 1. **Football match video downloaded from YouTube**
 2. Sample football gameplay video
 
-Input videos are placed inside:
+**Input videos are placed inside:** 
 ![Watch demo input](demo/input_sample.mp4)
 
 ## 📤 Outputs Generated
@@ -95,7 +95,7 @@ The pipeline generates:
 - Cropped player images
 - Analytical screenshots
 
-Stored in:
+**Stored in:**
 ![Watch demo output](demo/output_sample.avi)
 
 ## 🌐 Interactive Web Demo (Streamlit)
