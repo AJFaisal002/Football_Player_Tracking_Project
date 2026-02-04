@@ -145,8 +145,8 @@ python main.py
 - AI-based sports technology demos
 
 ### 👤 Author
-## **Adnan Faisal**
-**📧 Email: ajfaisal1208023@gmail.com**
+**Adnan Faisal**
+**Email: ajfaisal1208023@gmail.com**
 
 ### 📜 License
 This project is intended for educational and research purposes.
