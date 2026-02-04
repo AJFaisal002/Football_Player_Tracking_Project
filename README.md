@@ -117,7 +117,7 @@ Below is a screenshot and vide of the Streamlit user interface:
 
 > 📁 The screenshot is stored in the `demo/` directory of this repository.
 
-### ▶️ Run the Streamlit App Locally
+## ▶️ Run the Streamlit App Locally
 To launch the Streamlit web application on your local machine:
 ```bash
 streamlit run app.py
